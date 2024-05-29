@@ -13,12 +13,12 @@
     <PackageReference Include="JT808.Protocol.Extensions.Streamax" Version="0.5.0" />
     <PackageReference Include="JT808.Protocol.Extensions.SuBiao" Version="2.6.5" />
     <PackageReference Include="JT808.Protocol.Extensions.YueBiao" Version="2.6.5" />
-    <PackageReference Include="JT809" Version="2.2.4" />
-    <PackageReference Include="JT809.Protocol.Extensions.JT1078" Version="2.2.4" />
+    <PackageReference Include="JT809" Version="2.2.5" />
+    <PackageReference Include="JT809.Protocol.Extensions.JT1078" Version="2.2.5" />
     <PackageReference Include="JTActiveSafety" Version="1.0.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.6" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-    <PackageReference Include="NLog.Extensions.Logging" Version="5.3.7" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="5.3.11" />
   </ItemGroup>
 
 </Project>
